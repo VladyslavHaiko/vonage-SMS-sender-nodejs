@@ -1,0 +1,16 @@
+{
+  "name": "sms-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.2",
+    "express": "^4.17.1",
+    "nexmo": "^2.9.1"
+  }
+}
